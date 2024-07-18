@@ -6,8 +6,8 @@
 - 😄 Pronouns: were/was
 - ⚡ Fun fact: snapple doesn't have an API for facts
 
-- Words of the wize:
-- "Design is not just what it looks like and feels like. Design is how it works." - Steve jobs
+### Words of the wize:
+# "Design is not just what it looks like and feels like. Design is how it works." - Steve jobs
 
 <!---
 kisstopherr/kisstopherr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
