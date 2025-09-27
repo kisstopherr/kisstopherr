@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @kisstopherr
-- 👀 I’m interested in not breaking laws
 - 🌱 I’m currently learning the world of computers
 - 📫 How to reach me kisstopher80@gmail.com
 - 😄 Pronouns: were/was
