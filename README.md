@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kisstopherr
 - 🌱 I’m currently learning the world of computers
-- 📫 How to reach me kisstopher80@gmail.com
+- 📫 How to reach me kisstopher@kisstopher.dev
 - 😄 Pronouns: were/was
 - ⚡ Fun fact: Snapple doesn't have an API for their fun facts
 
